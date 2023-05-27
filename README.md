@@ -2,12 +2,12 @@
 
 ## Equipo 6:
 
-— Victor Cosme
-— Óscar Guerrero
-— Victor Nesta
-— Moisés García
+- Victor Cosme
+- Óscar Guerrero
+- Victor Nesta
+- Moisés García
 
-Práctica 3
+### Práctica 3
 
 - Un integrante crea un repo nuevo EN GitHub
 - Ese integrante debe agregar como colaborador a su compañero de equipo
